@@ -18,6 +18,9 @@ public class App {
 		int number2 = 1;
 		boolean bool = false;
 		System.out.println(booleanMaths(number1, number2, bool));
+		
+		App2.logic(6005);
+		
 	}
 
 }
